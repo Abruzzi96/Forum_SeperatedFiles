@@ -2,8 +2,8 @@
 
 misafir girişi indexe yönlendirsin sadece görüntüleme olsun<br>
 profilde thread, comment, like görüntüleme, profil fotoğrafı<br>
-like çalışmıyor<br>
-DytForum<br>
+like çalışmıyor<br><br>
+DytForum/<br>
 ├── README.md<br>
 ├── database<br>
 │   └── database.go<br>
